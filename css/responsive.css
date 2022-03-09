@@ -1,0 +1,98 @@
+
+@media screen and (max-witdh: 650px) {
+  /* global style */
+  .tentang .portfolio .nilai .kontak {
+    padding: 130px 50px 75px 50px;
+  }
+  .section-title {
+    font-size: 20px;
+  }
+
+  header {
+    padding: 20px 50px;
+    text-align: center;
+  }
+
+  header h1 {
+    float: none;
+  }
+
+  nav {
+    float: none;
+  }
+
+  nav ul {
+    padding: 0;
+    margin-top: 15px;
+  }
+
+  /* Main */
+
+  main {
+    margin-top: 122px;
+  }
+
+  .banner {
+    padding: 30px 0;
+  }
+
+  .banner-content {
+    padding: 30px;
+    width: 80px;
+    margin-top: 30px;
+  }
+
+  .banner-content h2 {
+    font-size: 20px;
+  }
+
+  .banner-content p {
+    font-size: 14px;
+  }
+
+  .github .instagram .whatsapp {
+    width: 40px;
+    height: 40px;
+  }
+
+  .tentang .wrapper {
+    flex-direction: column;
+  }
+
+  .kanan p {
+    font-size: 14px;
+  }
+
+  /* Section Portfolio */
+
+  .prortfolio .wrapper {
+    flex-direction: colum;
+  }
+
+  .porto-card {
+    width: 80%;
+    margin-bottom: 25px;
+  }
+
+  .porto-card img {
+    max-height: 400px;
+    height: 40vh;
+  }
+
+  /* Nilai dan Sertifikat */
+
+  .nilai .wrapper {
+    margin-top: 30px;
+  }
+
+  .nilai-title,
+  .sertifikasi-title {
+    margin-top: 10px;
+    margin-bottom: 15px;
+  }
+
+  /* kontak */
+  .kontak {
+    min-height: 1000vh;
+  }
+}
